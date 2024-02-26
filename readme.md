@@ -1,1 +1,1 @@
-# Proceso de Registro y Login completo
+# Proceso de Registro y Login completo. Este repositorio lo uso para trabajar remotamente en casa y trabajo en el proyecto de la clase 40: clase40migracionJSONaSequelize. Lo uso también para actualizar el documento: https://docs.google.com/document/d/1xf9Krr8yzgsTFxNeMipup83dGjidec306DX4zicmmPA/edit
